@@ -1,0 +1,27 @@
+{
+    "name": "light-chrome-devtools",
+    "displayName": "Light Chrome DevTools",
+    "publisher": "ivanzusko",
+    "description": "",
+    "version": "0.2.3",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light Chrome DevTools",
+                "uiTheme": "vs",
+                "path": "./themes/Light Chrome DevTools-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/ivanzusko/vscode-light-chrome-devtools-theme"
+    }
+}
