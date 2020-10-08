@@ -6,15 +6,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.2.4] - 2020-10-08
+### Changed
+- add description to package.json
+- README.md update
+- CHANGELOG.md update
+
 ## [0.2.3] - 2020-10-08
 ### Changed
 - add theme icon
 - add MIT license
-- CHANGELOG.md upddate
+- CHANGELOG.md update
 
 ## [0.2.2] - 2020-09-17
 ### Changed
-- CHANGELOG.md upddate
+- CHANGELOG.md update
   
 ## [0.2.1] - 2020-09-17
 ### Added

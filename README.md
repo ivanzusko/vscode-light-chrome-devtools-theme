@@ -1,9 +1,10 @@
 # README
 
-Initial  version.
+Version 0.2.4
 
 ## What's included
 JS color theme.
+CSS color theme
 
 ## Javascript syntax
 ![image](https://user-images.githubusercontent.com/8372070/93467152-a78a0780-f8ed-11ea-9a19-2f8ad997168e.png)

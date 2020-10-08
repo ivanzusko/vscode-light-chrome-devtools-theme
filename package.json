@@ -2,8 +2,8 @@
     "name": "light-chrome-devtools",
     "displayName": "Light Chrome DevTools",
     "publisher": "ivanzusko",
-    "description": "",
-    "version": "0.2.3",
+    "description": "Color theme inspired by Google Chrome DevTools",
+    "version": "0.2.4",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.46.0"
